@@ -11,8 +11,12 @@ h1{color: rgb(233, 66, 0);}
 .titulodelblog{text-align: center; font-size: 2rem; font-style:arial ; text-decoration: wavy underline;}
 
 /*article{border-bottom: 1px solid #fff; }*/
-article{border-bottom-width: 1px ;
-        border-bottom-color: rgb(5, 25, 139);
-        border-bottom-style: dotted;}
+article{border-bottom-width: 3px ;
+        border-bottom-color: rgb(255, 255, 255);
+        border-bottom-style: solid;}
 
         nav ul li {list-style: none;}
+
+.resaltado{color:yellow;}
+
+nav ul li a{text-decoration: none;}
