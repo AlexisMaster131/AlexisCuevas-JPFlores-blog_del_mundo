@@ -5,7 +5,9 @@ h1{color: rgb(233, 66, 0);}
 .ilustracion{
     margin-top: 4rem;
     margin-left: 4rem;
-    font-style: italic;}
+    font-style: italic;
+    
+}
     .footerblog{margin-top: 2rem;
     margin-left: 5rem;}
 .titulodelblog{text-align: center; font-size: 2rem; font-style:arial ; text-decoration: wavy underline;}
