@@ -64,6 +64,9 @@ nav>ul{
 }
 nav>ul>li>a:hover { text-decoration: underline;
     color: red;
+}
 
-
+article>header>hgroup{justify-content: space-between;
+display: flex;
+align-items: center;
 }
