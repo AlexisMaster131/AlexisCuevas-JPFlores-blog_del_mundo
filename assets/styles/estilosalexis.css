@@ -30,10 +30,9 @@ nav>ul>li>a{text-decoration: none;}
     border: 5px yellow solid;
 }
 
-.borde{background-color: blueviolet;
+.borde{background-color:aquamarine;
     border-color: black;
-    margin: 20px red;
-padding: 50px ;}
+}
 
 section{
     display: grid;
@@ -69,4 +68,26 @@ nav>ul>li>a:hover { text-decoration: underline;
 article>header>hgroup{justify-content: space-between;
 display: flex;
 align-items: center;
+}
+aside>div>img {background-color: #fff;
+padding: 0.5rem;
+border-radius: 50%;
+}
+footer{ display: flex;
+    align-items:center ;
+    justify-content: space-around;
+    padding-bottom: 0.5rem;}
+
+
+
+
+aside div:nth-last-of-type(even){
+        background-color: green;
+
+}
+aside div {border-bottom: 1px solid #fff; }
+.flex{display: flex;
+     flex-direction: row;
+    justify-content: space-between;
+  align-items: center ;
 }
